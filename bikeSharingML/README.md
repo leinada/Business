@@ -6,8 +6,7 @@ The Capital Bike Sharing dataset contains information related to one such bike s
 
 -- *can we forecast bike rental demand for this program?*
 
-
--- This project requires Python 3.x and NumPy,Pandas, matplotlib,seaborn, plotly
+This project requires Python 3.x and NumPy,Pandas, matplotlib,seaborn, plotly
 and Sklearn ML libriaries
 
 - Exploratory Analysis notebook [here](https://nbviewer.jupyter.org/github/leinada/Business/blob/master/bikeSharingML/bikeSharing_EDA.html )
