@@ -2,9 +2,9 @@
 --------------------------------------------------------------
 - Problem Statement
 
-The Capital Bike Sharing dataset contains information related to one such bike sharing program underway in Washington DC. Dataset contains bike sharing details along with weather information question is
+The Capital Bike Sharing dataset contains information related to one such bike sharing program underway in Washington DC. Dataset contains bike sharing details along with weather information.
 
--- *can we forecast the demand for this rental program?*
+**Can we forecast demand for this rental program?**.
 
 This project requires Python 3.x and NumPy,pandas, matplotlib,seaborn, plotly
 and Sklearn ML libriaries
