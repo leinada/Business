@@ -10,16 +10,15 @@ The Capital Bike Sharing dataset contains information related to one such bike s
 -- This project requires Python 3.x and NumPy,Pandas, matplotlib,seaborn, plotly
 and Sklearn ML libriaries
 
-- Exploratory Analysis Notebook [here](https://nbviewer.jupyter.org/github/leinada/Business/blob/master/bikeSharingML/bikeSharing_EDA.html )
-- Machine learning  Notebook [here](https://nbviewer.jupyter.org/github/leinada/Business/blob/master/bikeSharingML/bikeSharing_ML.html)
+- Exploratory Analysis notebook [here](https://nbviewer.jupyter.org/github/leinada/Business/blob/master/bikeSharingML/bikeSharing_EDA.html )
+- Machine learning  notebook [here](https://nbviewer.jupyter.org/github/leinada/Business/blob/master/bikeSharingML/bikeSharing_ML.html)
 
 - Analysis includes,
 
   * Exploratory analysis of the data.
   * Standardization of data, data encoding
   * Outlier detection
-  * Evaluating different model performances (
-  
+  * Evaluating different model performances   
   * Hyper parameter tuning and cross validation
   * Extraction  of important features
 
