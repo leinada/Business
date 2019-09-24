@@ -6,5 +6,5 @@ We would like to address the problem of uncovering information about a firm's cu
 
 - This project requires Python 3.x and NumPy,pandas, matplotlib,seaborn, plotly and Sklearn ML libriaries
 
-- Exploratory Analysis notebook (here)[https://nbviewer.jupyter.org/github/leinada/Business/blob/master/customerSegmentation/CustomerSegmentation.html]
+- Exploratory Analysis notebook [here](https://nbviewer.jupyter.org/github/leinada/Business/blob/master/customerSegmentation/CustomerSegmentation.html)
 
