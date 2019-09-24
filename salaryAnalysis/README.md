@@ -3,6 +3,7 @@
 - We would like to analyze salary dataset from a hospital system. This data contains the base salary for certain positions. In particular,
 
 -- We would like to develop a ML model for the nursing salaries based on the department, experience, ...
+
 -- Also we would address more about the details of hiring of nurse practitioners.
 
 Most plots are interactive,please hover over the charts for detail.
