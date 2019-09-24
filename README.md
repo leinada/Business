@@ -1,5 +1,5 @@
 ### Bike sharing demand forecast
-- Forecast demand for bike rental program. [Analysis here](https://github.com/leinada/Business/tree/master/bikeSharingML)
+- Forecast demand for bike rental program. Analysis [here](https://github.com/leinada/Business/tree/master/bikeSharingML)
 
 ### Salary analysis and prediction
 
