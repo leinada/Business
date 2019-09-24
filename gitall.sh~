@@ -1,3 +1,3 @@
 git add *
-git commit -m "change dir structure"
+git commit -m "added customer segmentation"
 git push -u origin master 
