@@ -11,4 +11,4 @@
 
 ### Customer segmentation
 
-- Here we try to  uncover information about a firm's customer base, based on their interactions with the business. Identified patterns play a crucial role in determining the company direction towards addressing the various segments and reap maximum profit.
+- Here we try to  uncover information about a firm's customer base, based on their interactions with the business. Identified patterns play a crucial role in determining the company direction towards addressing the various segments and reap maximum profit. See the analysis [here](https://github.com/leinada/Business/tree/master/customerSegmentation)
