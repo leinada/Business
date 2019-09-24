@@ -3,4 +3,4 @@
 
 ### Salary analysis and prediction
 
-- here we evaluate salaries for several positions for a hospital system. We will do some exploratory data analysis and try to develop a predictive model.
+- here we evaluate salaries for several positions for a hospital system. We will do some exploratory data analysis and try to develop a predictive model. [See the analysis here](https://github.com/leinada/Business/blob/master/salaryAnalysis/README.md)
